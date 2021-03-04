@@ -8,3 +8,8 @@
 
 ## 详细代码
 运行地点检索uid.ipynb即可
+
+geo_boundary.py 用于地理围栏（AOI）爬取
+transCoordinateSystem.py 用于坐标系转换（由百度坐标转换为WGS1984)
+
+## 最终生成的文件均为shp文件
